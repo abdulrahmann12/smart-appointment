@@ -8,7 +8,7 @@ public class AppointmentViewDTO {
     private Long appointmentId;
 
     private Long userId;
-    private String userName;
+    private String username;
 
     private Long providerId;
     private String providerName;
